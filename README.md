@@ -21,4 +21,12 @@ behind cloudflare, i.e.
         # ...
     }
 
+# How to generate
+
+If you don't trust me - and you shouldn't - you can regenerate the `cloudflare.conf` file by executing:
+
+    ./update
+
+You'll need Perl and Mojolicious installed.
+
 That's all, folks!
